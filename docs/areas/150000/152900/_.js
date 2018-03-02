@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["150000","152900"], [{"name":"阿拉善左旗","code":"152921"},{"name":"阿拉善右旗","code":"152922"},{"name":"额济纳旗","code":"152923"}]);

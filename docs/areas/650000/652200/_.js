@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["650000","652200"], [{"name":"哈密市","code":"652201"},{"name":"巴里坤哈萨克自治县","code":"652222"},{"name":"伊吾县","code":"652223"}]);

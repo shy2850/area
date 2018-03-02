@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["370000","371200"], [{"name":"市辖区","code":"371201"},{"name":"莱城区","code":"371202"},{"name":"钢城区","code":"371203"}]);

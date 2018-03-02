@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["640000","640500"], [{"name":"市辖区","code":"640501"},{"name":"沙坡头区","code":"640502"},{"name":"中宁县","code":"640521"},{"name":"海原县","code":"640522"}]);

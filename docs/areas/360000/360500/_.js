@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["360000","360500"], [{"name":"市辖区","code":"360501"},{"name":"渝水区","code":"360502"},{"name":"分宜县","code":"360521"}]);

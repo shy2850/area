@@ -1,0 +1,37 @@
+{
+  "name": "area-jsonp",
+  "version": "0.1.0",
+  "description": "area json jsonp",
+  "main": "index.html",
+  "scripts": {
+    "start": "f2e start",
+    "build": "f2e build",
+    "rollup": "rollup -c",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shy2850/area.git"
+  },
+  "keywords": [
+    "area",
+    "jsonp"
+  ],
+  "author": "shy2850",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shy2850/area/issues"
+  },
+  "homepage": "https://github.com/shy2850/area#readme",
+  "devDependencies": {
+    "f2e-middle-rollup": "^0.2.5",
+    "f2e-server": "^2.8.16",
+    "rollup-plugin-commonjs": "^8.3.0",
+    "rollup-plugin-node-resolve": "^3.0.3",
+    "rollup-plugin-typescript2": "^0.11.1",
+    "typescript": "^2.7.2"
+  },
+  "dependencies": {
+    "preact": "^8.2.7"
+  }
+}

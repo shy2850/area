@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["650000","652100"], [{"name":"吐鲁番市","code":"652101"},{"name":"鄯善县","code":"652122"},{"name":"托克逊县","code":"652123"}]);

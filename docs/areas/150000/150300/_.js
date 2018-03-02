@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["150000","150300"], [{"name":"市辖区","code":"150301"},{"name":"海勃湾区","code":"150302"},{"name":"海南区","code":"150303"},{"name":"乌达区","code":"150304"}]);
