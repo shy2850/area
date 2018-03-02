@@ -26,6 +26,6 @@ export default (options: {base: string}) => (paths = [], callback = (tree: TreeN
         callback && callback(AreaTree)
         document.body.removeChild(script)
     })
-    script.src = `${options.base}${paths.concat('_.js').join('/')}`
+    script.src = `${options.base}${paths.concat('1.js').join('/')}`
     document.body.appendChild(script)
 }

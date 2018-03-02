@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["540000"], [{"name":"拉萨市","code":"540100","children":[]},{"name":"日喀则市","code":"540200","children":[]},{"name":"昌都市","code":"540300","children":[]},{"name":"山南地区","code":"542200","children":[]},{"name":"那曲地区","code":"542400","children":[]},{"name":"阿里地区","code":"542500","children":[]},{"name":"林芝地区","code":"542600","children":[]}]);

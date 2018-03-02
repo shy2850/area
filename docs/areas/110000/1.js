@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["110000"], [{"name":"北京市","code":"110000","children":[]}]);

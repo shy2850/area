@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["360000","360600"], [{"name":"市辖区","code":"360601"},{"name":"月湖区","code":"360602"},{"name":"余江县","code":"360622"},{"name":"贵溪市","code":"360681"}]);

@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["620000","620300"], [{"name":"市辖区","code":"620301"},{"name":"金川区","code":"620302"},{"name":"永昌县","code":"620321"}]);

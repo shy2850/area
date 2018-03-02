@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["530000","532800"], [{"name":"景洪市","code":"532801"},{"name":"勐海县","code":"532822"},{"name":"勐腊县","code":"532823"}]);

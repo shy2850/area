@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["820000"], [{"name":"澳门半岛","code":"820100","children":[]},{"name":"氹仔岛","code":"820200","children":[]},{"name":"路环岛","code":"820300","children":[]}]);

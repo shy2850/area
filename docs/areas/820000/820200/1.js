@@ -1,0 +1,1 @@
+window['area-jsonp'] && window['area-jsonp'](["820000","820200"], [{"name":"嘉模堂区","code":"820201"}]);
